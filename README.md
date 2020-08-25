@@ -1,4 +1,5 @@
 # Machine-Learning-Challenge-Adopt-a-Buddy
+## The above code achieved accuracy of 89.25% 
 Problem statement
 
 Having a pet is one of life’s most fulfilling experiences. Your pets spoil you with their love, compassion and loyalty. And dare anyone lay a finger on you in your pet’s presence, they are in for a lot of trouble. Thanks to social media, videos of clumsy and fussy (yet adorable) pets from across the globe entertain you all day long. Their love is pure and infinite. So, in return, all pets deserve a warm and loving family, indeed. And occasional boops, of course.
